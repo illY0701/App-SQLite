@@ -15,7 +15,6 @@ O objetivo do projeto é explorar os conceitos e técnicas aprendidas durante o 
 - **Armazenamento local de dados**: Utilização do SQLite para persistência de informações. 💾
 - **Interface intuitiva**: Uma interface amigável para facilitar a interação do usuário. 👩‍💻
 - **Operações CRUD**: Funcionalidade para criar, ler, atualizar e excluir dados. ✍️
-- **Busca eficiente**: Permite ao usuário buscar dados facilmente. 🔍
 
 ## Integrantes do Projeto 👨‍💻👩‍💻
 
@@ -25,10 +24,10 @@ O objetivo do projeto é explorar os conceitos e técnicas aprendidas durante o 
 
 ## Tecnologias Utilizadas 🛠️
 
-- **Framework**: React Native (ou outro framework mobile escolhido)
+- **Framework**: React Native
 - **Banco de Dados**: SQLite
-- **Linguagem de Programação**: JavaScript
-- **Ferramentas de Desenvolvimento**: Visual Studio Code, Node.js
+- **Linguagem de Programação**: TypeScript (TSX)
+- **Ferramentas de Desenvolvimento**: Visual Studio Code, Node.js, Expo Go
 
 ## Como Rodar o Projeto 🚀
 
